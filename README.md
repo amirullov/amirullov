@@ -9,6 +9,8 @@
 </p>
 
 <p align="center">
+  <a href="https://t.me/amirmutalib">Telegram</a>
+  ·
   <a href="https://github.com/amirullov?tab=repositories">Explore my code</a>
   ·
   <a href="https://github.com/amirullov/dead-man-switch">Solana work</a>
